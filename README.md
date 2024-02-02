@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello 👋
+```c++
+class main {
+  string username = "marcosbuydid";
+  string name = "Marcos";
+  string web = "https://marcosbuydid.com";
+  string frontend[6] = {"HTML", "CSS", "Javascript", "React", "Angular", "React Native"};
+  string backend[3] = {"NodeJS", "C++", "Java"};
+  string databases[3] = {"PostgreSQL", "MySQL", "MongoDB"};
+  string tools[3] = {"GIT", "GitHub", "Redux"};
+  string miscellaneous[4]= {"SCRUM", "SOLID", "GNU/Linux", "macOS"}
 
-<!--
-**marcosbuydid/marcosbuydid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  return 1381989;
+}
+```
+<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=marcosbuydid&color=brightgreen&style=for-the-badge" /> </h1>
