@@ -5,10 +5,10 @@ class main {
   string name = "Marcos";
   string web = "https://marcosbuydid.com";
   string frontend[6] = {"HTML", "CSS", "Javascript", "React", "Angular", "React Native"};
-  string backend[3] = {"NodeJS", "C++", "Java"};
+  string backend[4] = {"NodeJS", "C#", "C++", "Java"};
   string databases[3] = {"PostgreSQL", "MySQL", "MongoDB"};
   string tools[3] = {"GIT", "GitHub", "Redux"};
-  string miscellaneous[4]= {"SCRUM", "SOLID", "GNU/Linux", "macOS"}
+  string miscellaneous[4]= {"SCRUM", "Design Patterns", "Linux", "macOS", "Windows"}
 
   return 1381989;
 }
